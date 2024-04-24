@@ -1,0 +1,30 @@
+
+
+$primary: #00b87b;
+$secondary: #314355;
+$light: #eeeeee;
+$dark: #05021d;
+
+$font-family-base: "Heebo", sans-serif;
+
+$body-bg: $dark;
+
+$body-color: $light;
+
+$headings-font-weight: 600;
+
+$display-font-weight: 700;
+
+$enable-responsive-font-sizes: true;
+
+$enable-rounded: false;
+
+$border-color: rgba(256, 256, 256, 0.1);
+
+$border-radius: 0px;
+
+$link-decoration: none;
+
+$enable-negative-margins: true;
+
+@import "bootstrap/scss/bootstrap";
